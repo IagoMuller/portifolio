@@ -14,9 +14,7 @@ hoverChangeExperience(
     com conhecimentos em programação como: Html, CSS, JS, Node, Typescript, .Lua, Kotlin e entre outras, sei fazer Arte Design
       e BeatMaker.`,
   "Programmer, Design and Beatmaker",
-  "Freelancer",
-  
-);
+  "Freelancer");
 
 hoverChangeExperience(
   ".zuplae",
