@@ -9,12 +9,10 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Atualmente trabalho como professor conteudista em frontend na
-  Digital House, o trabalho consiste em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
+  ".Designer And Programmer",
+  `Um entusiasta no mundo da música e um amante da tecnologia.
+    com conhecimentos em programação como: Html, CSS, JS, Node, Typescript, .Lua, Kotlin e entre outras, sei fazer Arte Design
+      e BeatMaker.`,
   "Professor conteudista em Frontend",
   "Digital House",
   "Nov 2021 - Atual (Quase 1 ano)"
