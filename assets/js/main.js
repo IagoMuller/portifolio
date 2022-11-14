@@ -13,9 +13,9 @@ hoverChangeExperience(
   `Um entusiasta no mundo da música e um amante da tecnologia.
     com conhecimentos em programação como: Html, CSS, JS, Node, Typescript, .Lua, Kotlin e entre outras, sei fazer Arte Design
       e BeatMaker.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Atual (Quase 1 ano)"
+  "Programmer, Design and Beatmaker",
+  "Freelancer",
+  
 );
 
 hoverChangeExperience(
